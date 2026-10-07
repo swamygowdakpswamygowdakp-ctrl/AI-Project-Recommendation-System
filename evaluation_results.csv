@@ -1,0 +1,6 @@
+Profile,Expected_Domain,Precision@K,Hit_Rate@K,Average_Match_Score
+Machine Learning Student,Machine Learning,0.6,1.0,28.724545654151502
+Computer Vision Student,Computer Vision,1.0,1.0,52.03249865893359
+NLP Student,Natural Language Processing,1.0,1.0,41.90763107282798
+Recommendation System Student,Recommender Systems,1.0,1.0,35.34977293499968
+Data Science Student,Data Science,0.8,1.0,40.63629347817712
